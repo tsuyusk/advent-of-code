@@ -26,6 +26,8 @@ int main() {
         int last_digit = -1;
         int index_first_digit = -1, index_last_digit = -1;
 
+        int first_digit_whole_number = -1, last_digit_whole_number = -1;
+        int index_first_digit_whole_number = -1, index_last_digit_whole_number = -1;
         for (int i = 0; i < txt.size(); i++) {
             char c = txt[i];
             int c_int = (int) c;
@@ -38,11 +40,7 @@ int main() {
                 index_last_digit = i;
                 last_digit = c_int;
             }
-        }
 
-        int first_digit_whole_number = -1, last_digit_whole_number = -1;
-        int index_first_digit_whole_number = -1, index_last_digit_whole_number = -1;
-        for (int i = 0; i < txt.size(); i++) {
             for (string number : number_names) {
                 if (txt.compare(i, number.size(), number) == 0) {
                     int digit = number_map[number];

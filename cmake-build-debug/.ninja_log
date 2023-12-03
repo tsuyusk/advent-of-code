@@ -1,0 +1,22 @@
+# ninja log v5
+6	211	7233057445877651	build.ninja	20bb23644d6e0adf
+1	542	7233057452241816	CMakeFiles/advent_of_code.dir/1-trebuchet/main.cpp.obj	28207c83eeff51ba
+544	793	7233057454716232	advent_of_code.exe	df16fe9ac36fcce4
+3	522	7233060049524489	CMakeFiles/advent_of_code.dir/1-trebuchet/main.cpp.obj	28207c83eeff51ba
+523	641	7233060050675832	advent_of_code.exe	df16fe9ac36fcce4
+3	518	7233060568810303	CMakeFiles/advent_of_code.dir/1-trebuchet/main.cpp.obj	28207c83eeff51ba
+519	636	7233060569950303	advent_of_code.exe	df16fe9ac36fcce4
+3	520	7233060799994070	CMakeFiles/advent_of_code.dir/1-trebuchet/main.cpp.obj	28207c83eeff51ba
+521	640	7233060801164053	advent_of_code.exe	df16fe9ac36fcce4
+4	556	7233062664962245	CMakeFiles/advent_of_code.dir/1-trebuchet/main.cpp.obj	28207c83eeff51ba
+557	682	7233062666192258	advent_of_code.exe	df16fe9ac36fcce4
+4	535	7233062967804338	CMakeFiles/advent_of_code.dir/1-trebuchet/main.cpp.obj	28207c83eeff51ba
+536	659	7233062969023193	advent_of_code.exe	df16fe9ac36fcce4
+3	510	7233063598168431	CMakeFiles/advent_of_code.dir/1-trebuchet/main.cpp.obj	28207c83eeff51ba
+510	629	7233063599328542	advent_of_code.exe	df16fe9ac36fcce4
+3	528	7233064139320912	CMakeFiles/advent_of_code.dir/1-trebuchet/main.cpp.obj	28207c83eeff51ba
+528	644	7233064140440942	advent_of_code.exe	df16fe9ac36fcce4
+4	554	7233064624116340	CMakeFiles/advent_of_code.dir/1-trebuchet/main.cpp.obj	28207c83eeff51ba
+554	677	7233064625316326	advent_of_code.exe	df16fe9ac36fcce4
+4	524	7233064721457856	CMakeFiles/advent_of_code.dir/1-trebuchet/main.cpp.obj	28207c83eeff51ba
+524	644	7233064722617843	advent_of_code.exe	df16fe9ac36fcce4
